@@ -1,0 +1,86 @@
+[
+  {
+    "options": null,
+    "NameSurname": "Berkay Özbinar",
+    "Date": "2021-12-23T00:00:00",
+    "Email": "berkaythecovista@hotmail.com",
+    "Choice": "Diğer"
+  },
+  {
+    "options": null,
+    "NameSurname": "Ahmet",
+    "Date": "2021-12-23T00:00:00",
+    "Email": "herhangibiri@gmail.com",
+    "Choice": "Fön"
+  },
+  {
+    "options": null,
+    "NameSurname": "Ayşe",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "ayseninepostasi@hotmail.com",
+    "Choice": "Boya"
+  },
+  {
+    "options": null,
+    "NameSurname": "Fatma",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "fatmaninepostasi@yahoo.com",
+    "Choice": "Ağda"
+  },
+  {
+    "options": null,
+    "NameSurname": "Gizem Soyisim",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "gizeminepostasi0101@outlook.com",
+    "Choice": "Gelin sepeti"
+  },
+  {
+    "options": null,
+    "NameSurname": "Gülsüm",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "gülsümünepostasi@hotmail.com",
+    "Choice": "Manikür veya pedikür"
+  },
+  {
+    "options": null,
+    "NameSurname": "Irmak",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "irmaginepostasi@hotmail.com",
+    "Choice": "Saç kesim"
+  },
+  {
+    "options": null,
+    "NameSurname": "Baris",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "barisinepostasi@hotmail.com",
+    "Choice": "Saç bakım"
+  },
+  {
+    "options": null,
+    "NameSurname": "Sena",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "senaninepostasi@hotmail.com",
+    "Choice": "Diğer"
+  },
+  {
+    "options": null,
+    "NameSurname": "Sema",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "semaninepostasi@gmail.com",
+    "Choice": "Manikür veya pedikür"
+  },
+  {
+    "options": null,
+    "NameSurname": "Yasin",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "yasininepostasi@hotmail.com",
+    "Choice": "Saç kesim"
+  },
+  {
+    "options": null,
+    "NameSurname": "Derya",
+    "Date": "2021-12-24T00:00:00",
+    "Email": "deryaninepostasi@hotmail.com",
+    "Choice": "Fön"
+  }
+]
